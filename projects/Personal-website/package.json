@@ -1,0 +1,19 @@
+{
+  "name": "personal-webpage",
+  "version": "1.0.0",
+  "description": "personal webpage for careere search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mammar86/personal-webpage.git"
+  },
+  "author": "Mohamed Ammar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mammar86/personal-webpage/issues"
+  },
+  "homepage": "https://github.com/mammar86/personal-webpage#readme"
+}
